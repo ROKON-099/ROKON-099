@@ -1,26 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Rokonuzzaman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=220&section=header&text=ROKONUZZAMAN&fontSize=55&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=60&descSize=20" width="100%" />
 
-<h3 align="center">Computer Science Student </h3>
-
-<p>
-  Passionate about programming, web development, problem solving and building real-world applications.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+%7C+JavaScript+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Passionate+Problem+Solver;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td>
 
 - 🎓 Computer Science & Engineering Student
-- 💻 Passionate about Full Stack Web Development
-- 🌱 Continuously learning and improving my skills
-- 🚀 Building practical projects to solve real-world problems
+- 💻 Passionate about Software Development
+- 🌱 Constantly learning and improving my skills
+- 🚀 Building real-world web applications
 - 🎯 Goal: Become a Professional Software Engineer
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,38 +36,33 @@
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-| Technology | Technology | Technology |
-|:---:|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | | |
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ROKON-099&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ROKON-099&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROKON-099&layout=compact&theme=default&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROKON-099&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ROKON-099&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ROKON-099/ROKON-099/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -85,8 +82,14 @@
 
 <div align="center">
 
-### ✨ Code • Learn • Build • Repeat ✨
+### Code • Learn • Build • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=ROKON-099&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ROKON-099&label=Profile%20Views&color=000000&style=flat" />
+
+</div>
+
+<div align="center">
+
+<sub>Thanks for visiting my profile! 🤍</sub>
 
 </div>
