@@ -4,7 +4,7 @@
 
 ### Computer Science & Engineering Student
 
-`Aspiring Software Engineer` • `Backend Developer` • `Problem Solver`
+`Learner` • `Frontend Developer` 
 
 <br/>
 
