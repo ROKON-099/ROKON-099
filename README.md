@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rokonuzzaman</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Student </h3>
 
 <p align="center">
-  Passionate about programming, problem solving and building web applications.
+  Passionate about programming,  building web applications.
 </p>
 
 ---
