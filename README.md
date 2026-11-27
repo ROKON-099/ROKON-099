@@ -58,17 +58,9 @@
 ---
 
 
----
 
-## 📈 Contribution Activity
 
-<div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROKON-099&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=false&border_color=30363D"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
