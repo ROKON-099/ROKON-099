@@ -70,6 +70,16 @@
 ---
 
 
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Rokon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ROKON-099&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=false&custom_title=Rokon's%20Contribution%20Graph)](https://github.com/ROKON-099)
+
+</div>
+---
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
